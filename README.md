@@ -29,7 +29,7 @@ This project presents the design and assembly of a Flange Coupling created using
 - Gearbox assemblies
 
 ## CAD Model
-(Add your public Onshape link here)
+https://cad.onshape.com/documents/06bbf614c1f5cda7ca59d478/w/3a1f2340447f08de51c597ac/e/3ba6cca101032708acfdcbb3?renderMode=0&uiState=6a4a840db1d991e1df73149c
 
 ## Project Preview
 
